@@ -28,6 +28,7 @@ $surl = htmlspecialchars($surl);
 
 $timelimit = 0; //time limit of execution this script over server quote (seconds), 0 = unlimited.
 
+//
 //Authentication
 $login = ""; //login
 //DON'T FORGOT ABOUT PASSWORD!!!
